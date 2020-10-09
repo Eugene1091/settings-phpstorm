@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="" />
+    <extensionMap>
+      <mapping pattern="humburger.scss" type="PLAIN_TEXT" />
+      <mapping pattern="plagiarism-check.svg" type="PLAIN_TEXT" />
+      <mapping pattern="www" type="PLAIN_TEXT" />
+      <mapping pattern="dependencies" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="mmdb" type="PLAIN_TEXT" />
+      <mapping pattern="sitemap.xml" type="XML" />
+    </extensionMap>
+  </component>
+</application>

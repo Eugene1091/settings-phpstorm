@@ -1,0 +1,54 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="8.12.0" last-modified="1536604579000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="234-236-207-221,,,108-137-187-255,,,255-255-255-155,,,255-255-255-224,,,94-33-138-204,,,94-33-138-205,,,50-128-65-255,,,36-128-14-255,,,192-203-187-255,,,255-221-36-255,,,94-33-138-255,,,184-116-226-255,,,109-31-209-255,,,0-0-0-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.71511626" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="2" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PLUGIN_FILTER" value="CSS" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="// Remove WP embed script function speed_stop_loading_wp_embed() { if (!is_admin()) { wp_deregister_script('wp-embed'); } } add_action('init', 'speed_stop_loading_wp_embed');&#10;-&#10;{&#10;&lt;&#10;y_" />
+    <property name="SettingsSearchHistory" value="file ty&#10;conso&#10;font&#10;theme&#10;export" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.85" />
+    <property name="TextEditorWithPreview.SplitterProportionKey" value="0.82273054" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />
+    <property name="css.x.fire.previous.version" value="1.50" />
+    <property name="dir.diff.panel.divider.location" value="69" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="evlsprt3.181" value="18" />
+    <property name="evlsprt3.182" value="17" />
+    <property name="evlsprt3.183" value="15" />
+    <property name="export.settings.path" value="~/settings.zip" />
+    <property name="file.gist.reindex.count" value="1649491" />
+    <property name="fileTypeChangedCounter" value="11" />
+    <property name="find.popup.splitter" value="0.3273453" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="57647" />
+    <property name="js.overrides.completion" value="true" />
+    <property name="js.var.names.completion" value="true" />
+    <property name="lastTip" value="100" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads/Css-X-Fire/lib" />
+    <property name="settings.code.style.selected.tab.PHP" value="Spaces" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="wordPress.support.wordPressPath" value="$USER_HOME$/Documents/My project/vegas" />
+  </component>
+</application>
