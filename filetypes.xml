@@ -2,11 +2,13 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="" />
     <extensionMap>
+      <mapping pattern="text1" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="humburger.scss" type="PLAIN_TEXT" />
       <mapping pattern="plagiarism-check.svg" type="PLAIN_TEXT" />
       <mapping pattern="www" type="PLAIN_TEXT" />
       <mapping pattern="dependencies" type="PLAIN_TEXT" />
+      <mapping pattern="text1.txt" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
