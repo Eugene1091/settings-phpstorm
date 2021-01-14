@@ -11,6 +11,8 @@
       <mapping pattern="dependencies" type="PLAIN_TEXT" />
       <mapping pattern="text1.txt" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="m4s" type="PLAIN_TEXT" />
+      <mapping ext="mkv" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
