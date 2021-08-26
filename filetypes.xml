@@ -3,6 +3,7 @@
     <ignoreFiles list="" />
     <extensionMap>
       <mapping pattern="text1" type="PLAIN_TEXT" />
+      <mapping pattern="icon-serach-black.svg" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="humburger.scss" type="PLAIN_TEXT" />
       <mapping pattern="plagiarism-check.svg" type="PLAIN_TEXT" />
