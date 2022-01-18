@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="" />
     <extensionMap>
+      <mapping pattern="enqueue-scipts.php" type="PLAIN_TEXT" />
       <mapping pattern="text1" type="PLAIN_TEXT" />
       <mapping pattern="icon-serach-black.svg" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
