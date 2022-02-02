@@ -34,4 +34,12 @@
       </list>
     </option>
   </component>
+  <component name="RfsDownloadedStorageManager">
+    <option name="fileList">
+      <list>
+        <option value="__iClfile2_txt.txt/file2.txt" />
+      </list>
+    </option>
+    <option name="mainDirPath" value="/private/var/folders/xd/b39jm2s176l25vf222jw09_40000gp/T/HDFS-downloaded" />
+  </component>
 </application>
