@@ -17,6 +17,7 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="m4s" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="mkv" type="PLAIN_TEXT" />
       <mapping pattern="sitemap.xml" type="XML" />
