@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="" />
     <extensionMap>
-      <removed_mapping ext="es" type="ActionScript" />
-      <mapping ext="es" type="Elasticsearch" />
       <mapping pattern="www" type="PLAIN_TEXT" />
       <mapping pattern="humburger.scss" type="PLAIN_TEXT" />
       <mapping pattern="text1.txt" type="PLAIN_TEXT" />
@@ -23,6 +21,7 @@
       <mapping ext="mkv" type="PLAIN_TEXT" />
       <mapping pattern="sitemap.xml" type="XML" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="es" approved="true" type="ActionScript" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <mapping ext="env" type=".env file" />
     </extensionMap>
