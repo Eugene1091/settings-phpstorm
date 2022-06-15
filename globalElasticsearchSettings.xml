@@ -1,0 +1,17 @@
+<application>
+  <component name="GlobalElasticsearchConfiguration">
+    <option name="clusterConfigurations">
+      <map>
+        <entry key="f82d1272-414d-4b2b-83a1-02cf1c831b36">
+          <value>
+            <G>
+              <option name="id" value="f82d1272-414d-4b2b-83a1-02cf1c831b36" />
+              <option name="label" value="Hippo" />
+              <option name="url" value="http://159.69.243.64:9200" />
+            </G>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
