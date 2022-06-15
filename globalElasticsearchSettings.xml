@@ -4,13 +4,18 @@
       <map>
         <entry key="f82d1272-414d-4b2b-83a1-02cf1c831b36">
           <value>
-            <G>
+            <l>
               <option name="id" value="f82d1272-414d-4b2b-83a1-02cf1c831b36" />
               <option name="label" value="Hippo" />
               <option name="url" value="http://159.69.243.64:9200" />
-            </G>
+            </l>
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="requestHistory">
+      <map>
+        <entry key="f82d1272-414d-4b2b-83a1-02cf1c831b36" value="W3sicGF0aCI6Ii9zdHVkeWhpcHBvX2RiL19zZWFyY2giLCJib2R5Ijoie1xuICBcImZyb21cIjogMCxcbiAgXCJzaXplXCI6IDEwLFxuICBcInF1ZXJ5XCI6IHtcbiAgICBcIm1hdGNoX2FsbFwiOiB7fVxuICB9XG59IiwibWV0aG9kIjoiR0VUIn0seyJwYXRoIjoiL3N0dWR5bW9vc2VfZGIvX3NlYXJjaCIsImJvZHkiOiJ7XG4gIFwiZnJvbVwiOiAwLFxuICBcInNpemVcIjogMTAsXG4gIFwicXVlcnlcIjoge1xuICAgIFwibWF0Y2hfYWxsXCI6IHt9XG4gIH1cbn0iLCJtZXRob2QiOiJHRVQifSx7InBhdGgiOiIvc3R1ZHloaXBwb19kYi9fc2VhcmNoIiwiYm9keSI6IntcbiAgXCJmcm9tXCI6IDAsXG4gIFwic2l6ZVwiOiAxMCxcbiAgXCJxdWVyeVwiOiB7XG4gICAgXCJtYXRjaF9hbGxcIjoge31cbiAgfVxufSIsIm1ldGhvZCI6IkdFVCJ9LHsicGF0aCI6Ii9fbm9kZXMvcnRFTE9FYURSZHFFMkFBaHEyb0dKQSIsImJvZHkiOiIiLCJtZXRob2QiOiJHRVQifSx7InBhdGgiOiIvc3R1ZHloaXBwb19kYi9fc2VhcmNoIiwiYm9keSI6IntcbiAgXCJmcm9tXCI6IDAsXG4gIFwic2l6ZVwiOiAxMCxcbiAgXCJxdWVyeVwiOiB7XG4gICAgXCJtYXRjaF9hbGxcIjoge31cbiAgfVxufSIsIm1ldGhvZCI6IkdFVCJ9LHsicGF0aCI6Ii9lbnZyZXhwZXJ0c19kYi9fc2VhcmNoIiwiYm9keSI6IntcbiAgXCJmcm9tXCI6IDAsXG4gIFwic2l6ZVwiOiAxMCxcbiAgXCJxdWVyeVwiOiB7XG4gICAgXCJtYXRjaF9hbGxcIjoge31cbiAgfVxufSIsIm1ldGhvZCI6IkdFVCJ9XQ==" />
       </map>
     </option>
   </component>
