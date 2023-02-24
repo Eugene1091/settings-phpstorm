@@ -37,6 +37,7 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="Users/evgeniykalinichenko/Documents/Projects/studymoose.com/scripts/top930.csv" />
         <option value="Users/evgeniykalinichenko/Documents/Projects/studymoose.com/wp-content/themes/theme/include/top_writers/top_new_writers.csv" />
         <option value="Users/evgeniykalinichenko/Documents/My project/Test-image-generator/image-generator/bin-image/phd-essay/logs.csv" />
         <option value="Users/evgeniykalinichenko/Documents/My project/Test-image-generator/image-generator/bin-image/samploon/essay-list-preview.csv" />
@@ -46,7 +47,6 @@
         <option value="Users/evgeniykalinichenko/Documents/Projects/studymoose.com/bin/list-title.csv" />
         <option value="Users/evgeniykalinichenko/Documents/My project/Test-image-generator/image-generator/bin-image/samploon/new-list-images.csv" />
         <option value="Users/evgeniykalinichenko/Documents/My project/Test-image-generator/image-generator/bin-image/samploon/logs.csv" />
-        <option value="Users/evgeniykalinichenko/Library/Caches/com.binarynights.ForkLift-3/FileCache/00D109B1-5DF5-4CF6-AB59-166FE4708403/new-list-images.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/xd/b39jm2s176l25vf222jw09_40000gp/T/HDFS-downloaded" />
